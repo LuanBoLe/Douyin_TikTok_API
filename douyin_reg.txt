@@ -1,0 +1,32 @@
+Admins-Air-2:bot admin$ dotnet "tiktok-tools-core.dll" "/api/do/verify?email=bidepe8421@error57.com&code=242562"
+[15.08.2021 02:25:01] http://xxx.xx:5555/api/do/verify?email=bidepe8421@error57.com&code=242562
+[15.08.2021 02:25:01] Header -> ait: 1628986970710
+[15.08.2021 02:25:01] Header -> device_id: 6996445503278368262
+[15.08.2021 02:25:01] Header -> install_id: 6996445650468833029
+[15.08.2021 02:25:01] Header -> cookie: install_id=6996445650468833029; store-country-code=de; store-idc=maliva; ttreq=1$b1b769c47a2f23d5bb6d9c969ff0258ff053eebd
+[15.08.2021 02:25:01] Header -> imei: 351451254922930
+[15.08.2021 02:25:01] Header -> gaid: 7b0d5377-d6a0-4a60-b7de-0f1be9f3f627
+[15.08.2021 02:25:01] Header -> openudid: 775b5c2082d84c42
+[15.08.2021 02:25:01] Header -> mc: b6:ae:8b:08:56:46
+[15.08.2021 02:25:01] Header -> device_brand: Asus
+[15.08.2021 02:25:01] Header -> device_model: ASUS_Z01QD
+[15.08.2021 02:25:01] Header -> device_resolution: 1080*2400
+[15.08.2021 02:25:01] Header -> os_version: 7.1.2
+[15.08.2021 02:25:01] Header -> sdk_ver: 25
+[15.08.2021 02:25:01] Header -> operator_id: 26202
+[15.08.2021 02:25:01] Header -> device_memory: 128g
+[15.08.2021 02:25:01] Header -> operator_name: Vodafone
+[15.08.2021 02:25:01] Header -> clientudid: 60f6035b-75ff-44f0-be7a-7afb43026cbf
+[15.08.2021 02:25:01] Header -> rom_version: 20171130.376229
+[15.08.2021 02:25:01] Header -> rom: rel.se.infra.20200730.150525
+[15.08.2021 02:25:01] Header -> dpi: 450
+[15.08.2021 02:25:01] Header -> meta: {"d_fp": "Asus/Asus/ASUS_Z01QD:7.1.2/20171130.376229:user/release-keys", "d_brand": "Asus", "d_model": "ASUS_Z01QD", "d_board": "sdm845", "d_device": "ASUS_Z01QD", "d_product": "ASUS_Z01QD", "d_manuf": "Asus", "d_inc": "rel.se.infra.20200730.150525", "d_des": "Asus-user 7.1.2 20171130.276299 release-keys", "d_bt": "rel.se.infra.20200730.150525", "d_rom": "20171130.376229", "d_os": "7.1.2", "d_api": "25", "d_serial": "25", "d_dpi": "450", "d_display": "1080*2400", "d_hw": "gmin"}
+[15.08.2021 02:25:01] Header -> auth_key: xxxx-xxxx-xxxx-xxxx-xxxx
+[15.08.2021 02:25:01] Header -> xtttraceid: 00-03c0ff576ea09bae2bf51cfb7f5a7dfb-775b5c2082d84c42-01
+[15.08.2021 02:25:01] Header -> proxy: 
+[15.08.2021 02:25:04] http://xxx.xx:5555/api/do/log?auth_key=xxxx-xxxx-xxxx-xxxx-xxxx&filename=log_14eb0f2fc47040d08db9d27c9e6e2950_210815_022504.txt
+[15.08.2021 02:25:04] Response: [2021-08-15 02:25:02.168474] Debug: https://api21-h2.tiktokv.com/passport/email/register_verify_login/?app_skin=white&app_type=normal&channel=googleplay&cpu_support64=false&host_abi=armeabi-v7a&ac2=wifi&uoo=0&ac=wifi&pass-route=1&carrier_region_v2=262&app_name=musical_ly&ssmix=a&pass-region=1&device_platform=android&aid=1233&account_sdk_version=387&ab_version=16.3.5&version_name=16.3.5&build_number=16.3.5&version_code=160305&manifest_version_code=2021603050&update_version_code=2021603050&_rticket=1628987102168&iid=6996445650468833029&device_type=ASUS_Z01QD&resolution=1080%2A2400&dpi=450&openudid=775b5c2082d84c42&os_api=25&device_id=6996445503278368262&mcc_mnc=26202&os_version=25&device_brand=Asus&cdid=1130a818-a043-4f09-8b03-7ccb5c8ed515&region=DE&app_language=de&timezone_name=Europe%2FBerlin&residence=DE&carrier_region=DE&op_region=DE&timezone_offset=3600&language=de&sys_region=DE&locale=de-DE&ts=1628987102
+[2021-08-15 02:25:02.168525] Debug: email=676c616075603d313734456077776a7730322b666a68&account_sdk_source=app&mix_mode=1&multi_login=1&type=34&code=242562
+[2021-08-15 02:25:02.351363] Sign: {'X-Gorgon': '0404f8d500005da31c5bb6fec6ff3687a1aa7a0ddc7790d498cf', 'X-Khronos': '1628987107'}
+[2021-08-15 02:25:04.371837] Debug: {'data': {'app_id': 1233, 'avatar_url': 'https://p16-sg.tiktokcdn.com/img/user-avatar-alisg/017ftsu9q7fjrz0u1lhov78kjak4uai4~120x256.image', 'connects': [], 'country_code': 0, 'device_id': 0, 'email': 'b***1@error57.com', 'has_password': 0, 'is_kids_mode': 0, 'is_only_bind_ins': False, 'mobile': '', 'name': 'user2382316880860', 'new_user': 1, 'old_user_id': 6996445231999419397, 'old_user_id_str': '6996445231999419397', 'screen_name': 'user2382316880860', 'sec_old_user_id': 'MS4wLjABAAAAJXg3MjpD3M5PKc_w26Ou9HsPvaguJlikpJf535gcYo1nsM3rbtXJfkQ-9wxUKVJx', 'sec_user_id': 'MS4wLjABAAAAJXg3MjpD3M5PKc_w26Ou9HsPvaguJlikpJf535gcYo1nsM3rbtXJfkQ-9wxUKVJx', 'session_key': 'e1f60d5d07e6c25afc10cd8e715615e8', 'user_id': 6996445231999419397, 'user_id_str': '6996445231999419397', 'user_verified': False}, 'message': 'success'}
+[2021-08-15 02:25:04.372605] Verifying successful
